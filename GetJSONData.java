@@ -138,7 +138,7 @@ public class GetJSONData {
             -   For each stock, get the trading data and insert into the 'pricedata' table
          */
             Scanner kb = new Scanner(System.in);
-            System.out.print("What is the industry of interest? "); //what is this
+            System.out.print("What is the industry of interest? "); 
             String symbol = kb.nextLine();
             URL url = null; // USE YOUR API Key!!
 
