@@ -6,14 +6,13 @@ Project 1: I was tasked with scraping real-time stock data (ticker symbol, open 
     2.)GetCSVData
     3.)GetJSONData
     
-    
-Project 2: This code was an attempt to solve a Kaggle competition after it had closed which aimed to predict adoptibility in dogs and cats based off photos and meta data on dogs and cats. This project includes one file: 
-    1.)Convolutional_Network_Training
-    
-    
-Project 3: This project was focused on getting hands-on experience with different transfer learning methods. Two methods are used: Feature extraction, and removing and replacing the last layer of the network. This project includes one file: 
+Project 2: This project was focused on getting hands-on experience with different transfer learning methods. Two methods are used: Feature extraction, and removing and replacing the last layer of the network. This project includes one file: 
     1.)Transfer_Learning
     
-Project 4: This project was focused on utlizing recurrent neural networks for text/speech prediction. Here, I use the Pulp Fiction script to train my model to learn how to predict words and characters. This project includes one file: 
+Project 3: This project was focused on utlizing recurrent neural networks for text/speech prediction. Here, I use the Pulp Fiction script to train my model to learn how to predict words and characters. This project includes one file: 
     1.)Recurrent_Neural_Networks
+    
+
+    
+Project 5: 
 
