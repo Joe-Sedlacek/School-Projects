@@ -12,7 +12,5 @@ Project 2: This project was focused on getting hands-on experience with differen
 Project 3: This project was focused on utlizing recurrent neural networks for text/speech prediction. Here, I use the Pulp Fiction script to train my model to learn how to predict words and characters. This project includes one file: 
     1.)Recurrent_Neural_Networks
     
-
-    
-Project 5: 
+ 
 
