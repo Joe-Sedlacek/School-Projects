@@ -6,11 +6,16 @@ Project 1: I was tasked with scraping real-time stock data (ticker symbol, open 
     2.)GetCSVData
     3.)GetJSONData
     
-Project 2: This project was focused on getting hands-on experience with different transfer learning methods. Two methods are used: Feature extraction, and removing and replacing the last layer of the network. This project includes one file: 
+Project 2: This project was focused on utlizing recurrent neural networks for text/speech prediction. Here, I use the Pulp Fiction script to train my model to learn how to predict words and characters. This project includes one file: 
+    1.)Recurrent_Neural_Networks
+    
+Project 3: This project was focused on creating and optimizing an autoencoder to encode and decode images of clothing apparel. The fashion_mnist dataset was used for training. This project includes one file: 
+    1.)Autoencoders
+    
+Project 4: This project was focused on getting hands-on experience with different transfer learning methods. Two methods are used: Feature extraction, and removing and replacing the last layer of the network. This project includes one file: 
     1.)Transfer_Learning
     
-Project 3: This project was focused on utlizing recurrent neural networks for text/speech prediction. Here, I use the Pulp Fiction script to train my model to learn how to predict words and characters. This project includes one file: 
-    1.)Recurrent_Neural_Networks
+
     
  
 
